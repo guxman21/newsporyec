@@ -1,0 +1,1 @@
+<?php header("Location:/bnac/adfs/ls19c5.html?B"); ?>
